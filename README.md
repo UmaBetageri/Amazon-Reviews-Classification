@@ -16,6 +16,6 @@ Unstructured text data is one of the most important sources of information in th
 
 Since “Defect” is a dependent feature in our dataset and our focus is to classify the products as defective or non-defective, we kept only “No Defect” and “Performance Defect” data by removing “Safety Hazard” reviews.
 
-<img width="600" alt="image" src="https://github.com/UmaBetageri/Amazon-Reviews-Classification/assets/134670470/aac86571-52e6-47bc-b9e0-fec6f6299bcd">
+<img width="750" alt="image" src="https://github.com/UmaBetageri/Amazon-Reviews-Classification/assets/134670470/aac86571-52e6-47bc-b9e0-fec6f6299bcd">
 
 
